@@ -102,6 +102,7 @@ src/main/java/unicsul/
 - Limite de 1000 alunos por campus, pois a árvore não é balanceada e as operações são recursivas.
 - Não há login: **não exponha a porta na rede**.
 - Dados só em memória, alunos de exemplo fictícios, sem secrets, banco de dados ou variáveis de ambiente.
+- Para reportar uma falha, veja a [política de segurança](SECURITY.md).
 
 ## 📄 Licença
 
